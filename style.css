@@ -20,8 +20,8 @@ body {
 
 /* Header / Hero Section */
 .hero {
-    background: linear-gradient(rgba(2, 136, 209, 0.65), rgba(216, 27, 96, 0.55)), 
-                url('file:///C:/Users/Kelly%20Moraes/Downloads/maior-buda-do-brasil-divulgacao.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(2, 136, 209, 0.65), rgba(216, 27, 96, 0.55)),
+            url('maior-buda-do-brasil-divulgacao.jpg') center/cover no-repeat;
 
     height: 70vh;
     display: flex;
